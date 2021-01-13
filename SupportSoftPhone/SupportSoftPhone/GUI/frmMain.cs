@@ -94,6 +94,7 @@ namespace SupportSoftPhone.GUI
         }
         private void ShowRegister()
         {
+            threadHelper.UpdateTextControl(txtEmailLogin, "Click vào Register");
             threadHelper.UpdateVisibleControl(grpSetupAndInCall,false);
             threadHelper.UpdateVisibleControl(gbCall,false);
             threadHelper.UpdateVisibleControl(gbAllHistories,false);
