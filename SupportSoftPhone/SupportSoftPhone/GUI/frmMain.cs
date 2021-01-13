@@ -174,11 +174,6 @@ namespace SupportSoftPhone.GUI
         private void Login()
         {
             var displayName = "Trương Tuấn Nghĩa";
-            //var userName = "7109";
-            //var authenticationId = "7109";
-            //var registerPassword = "iHlNSF5e8n";
-            //var domainHost = "125.253.123.195";
-            //int domainPort = 5060;
             var userName = "2230229769";
             var authenticationId = "2230229769";
             var registerPassword = "2571621234";
